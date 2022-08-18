@@ -118,6 +118,7 @@ Material:
     - Vector1_BC0EF72F: 0.4
     - Vector1_C2FC6024: 0
     - _AlphaClip: 0
+    - _AlphaThreshold: 0
     - _Blend: 0
     - _BumpScale: 1
     - _Cull: 2
@@ -133,6 +134,7 @@ Material:
     - _NoiseScale: 50
     - _NoiseStrength: 1
     - _OcclusionStrength: 1
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
